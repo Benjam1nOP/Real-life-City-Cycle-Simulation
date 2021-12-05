@@ -9,8 +9,8 @@ https://sourceforge.net/projects/orwelldevcpp/
 # Now Open Dev C++ create new project -> Console Application
 # Right click on project go to project options-> Parameters
 # Paste this in the Linker Column:
--lopengl32
--lfreeglut
--lglu32
+# -lopengl32
+# -lfreeglu
+# -lglu32
 # Click OK.
 # All done Paste the Code.
